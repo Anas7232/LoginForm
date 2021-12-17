@@ -1,0 +1,39 @@
+.main-container{
+    height: 100vh;
+    width: 100%;
+    background-color: #5b82a1;
+}
+.form{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.2);
+    padding: 0px 0px;
+}
+.btn{
+    color: white;
+    border: none;
+    background-color: #FAD7A0;
+    width: 100%;
+    margin-top: 15px;
+    padding: 12px;
+    font-family: 'Raleway', sans-serif;
+}
+.btn:hover{
+    color: white;
+    border: none;
+    background-color: #F5CBA7 ;
+}
+.navbar-link{
+    font-size: 12px;
+    text-decoration: none;
+    color: #5b82a1;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-link:hover{
+    color: #5b82a1;
+}
+.text{
+    color: #FAD7A0;
+    text-align: center;
+}

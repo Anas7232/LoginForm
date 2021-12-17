@@ -1,0 +1,52 @@
+.main_home{
+    width: 100%;
+    height: 100vh;
+}
+.middle_container{
+    margin-top: 80px;
+}
+.bg_image{
+    width: 90%;
+    height: 90%;
+    background-image: url(../../images/beauty.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg_height{
+    height: 70vh;
+}
+.text_h1{
+    color: #BFC9CA;
+    padding-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.text_paragraph{
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+}
+.read_more{
+    background-color: #FAD7A0 ;
+    color: #fff;
+    padding: 10px 30px;
+    margin: 30px 0px;
+    border: none;
+}
+.icons_height{
+    height: 35vh;
+}
+.main_icons_bar{
+    color: #FAD7A0 ;
+    font-size: 90px;
+}
+.main_h1_text{
+    font-size: 30px;
+    padding: 20px 0px;
+    font-family: 'Raleway', sans-serif;
+    color: #BFC9CA;
+}
+.main_paragraph_p{
+    color: gray;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}

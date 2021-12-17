@@ -1,0 +1,15 @@
+.navbar_top{
+    background-color: white;
+}
+.icon{
+    color: #FAD7A0;
+    font-size: 80px;
+}
+.nav-link{
+    color: white;
+}
+.logout_icon{
+    color: #FAD7A0;
+    font-size: xx-large;
+    padding: 0px 2px;
+}
